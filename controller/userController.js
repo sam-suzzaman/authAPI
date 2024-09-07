@@ -1,4 +1,4 @@
-const UserModel = require("../model/UserModel");
+const UserModel = require("../model/userModel");
 const bcrypt = require("bcrypt");
 const JWTGenerator = require("../utils/JWTGenerator");
 // const JWTGenerator = require("../utilities/JWT_Generator");
